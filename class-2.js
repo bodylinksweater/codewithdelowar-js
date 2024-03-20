@@ -15,3 +15,5 @@ var firstname = "Mehedi";
 var lastname = "Hasan";
 
 console.log(firstname);
+
+console.log(lastname);
